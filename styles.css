@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.quiz-title {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    margin-top: 20px;
+}
+
+.question-container {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.question-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.question {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.option {
+    font-size: 16px;
+    color: #666;
+}
+
+.divider {
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    display: block;
+    margin: 20px auto;
+}
+
+.submit-btn:hover {
+    background-color: #45a049;
+}
+
+.footer {
+    text-align: right;
+    margin-top: 20px;
+    
+}
+
+.developed-text {
+    font-size: 14px;
+    color: #666;
+}
+
+.instagram-logo {
+    width: 20px;
+    height: 20px;
+    margin-right: 100px;
+}
